@@ -4,7 +4,7 @@ GPS 1.1
   510  cd devbootcamp
   511  git clone https://github.com/DylanLovesCoffee/phase-0-gps-1.git
   512  ls
-  513  cd phase-0-gps-1
+  513  cd phase-0-gps-1 
   514  ls
   515  touch awesome_page.md
   516  ls

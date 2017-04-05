@@ -7,6 +7,4 @@
     This is my 4 space block of code.    
 My link to [reddit](www.reddit.com)
 
-![This is the image text1](https://github.com/DylanLovesCoffee/phase-0-gps-1/blob/master/GPS_1.1.jpg?raw=true "image text 2")
-
-![This is the image text1](https://github.com/DylanLovesCoffee/phase-0-gps-1/awsome_page_update/GPS_1.1.jpg "image text 3")
+![This is the image text](https://github.com/DylanLovesCoffee/phase-0-gps-1/blob/master/GPS_1.1.jpg?raw=true "image text")
